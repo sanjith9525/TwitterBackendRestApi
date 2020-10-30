@@ -3,8 +3,7 @@ Twitter Clone Backend using Java Spring
 
 Requirements for running this : 
 
-IntelliJ
-MySQL8
+IntelliJ, MySQL8
 
 Steps to run : 
 
